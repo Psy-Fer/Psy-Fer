@@ -1,11 +1,12 @@
-### Hi there 👋
+### Welcome to Psy-Fer's GitHub
 
+🔭 I’m currently working on bioinformatics tools
 <!--
 **Psy-Fer/Psy-Fer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Psy-Fer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psy-Fer\&show_icons=true)
+
+
+![Psy-Fer's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=Psy-Fer\&langs_count=20\&hide=jupyter%20notebook\&layout=compact)
